@@ -32,10 +32,13 @@ In C++, **overloading** allows multiple functions or operators to have the same 
 - Each function handles different types or counts of parameters.
 - Call each version from `main()` and
 
-**Output**:
+**Output**
 No numbers to add. Sum is 0.
+
 Sum of two integers: 37 
+
 Sum of two decimals: 10 
+
 Sum of three integers: 8
 
 
@@ -52,7 +55,9 @@ Sum of three integers: 8
 
 **Output**:
 Title: C++, Pages: 100 
+
 Title: Python, Pages: 150
+
 Title: C++ & Python, Pages: 250
 
 
@@ -69,7 +74,9 @@ Title: C++ & Python, Pages: 250
 
 **Output**:
 Shape: Undefined, Area: 0 
+
 Shape: Rectangle, Area: 70
+
 Shape: Square, Area: 36
 
 
@@ -86,8 +93,11 @@ Shape: Square, Area: 36
 
 **Output**:
 Name: Abir
+
 Name: Abir, Age: 19
+
 Name: Abir, City: Pune
+
 Name: Abir, Age: 19, City: Pune
 
 
@@ -119,7 +129,9 @@ Name: Abir, Age: 19, City: Pune
 
 **Output**:
 Adding 2 numbers: 19
+
 Adding 3 numbers: 33 
+
 Adding decimals: 14
 
 
